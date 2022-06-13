@@ -1,5 +1,9 @@
-body, html, #root, .App {
+body, 
+html, 
+#root, 
+.App {
     height: 100%;
+    background-image:url();
 }
 
 .App {
@@ -7,6 +11,7 @@ body, html, #root, .App {
     display: grid;
     grid-template-columns: 1fr 1fr 2fr;
     align-items: center;
+    
 }
 
 .city img {
